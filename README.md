@@ -4,3 +4,4 @@
 2) Lists: Example, computing Khayyam-Pascal's triangle
 3) Lists: Copying
 4) Exercise: Solving quadratic equation
+5) Stacks are implemented by lists. An example to reverse a list with stack is also included.
