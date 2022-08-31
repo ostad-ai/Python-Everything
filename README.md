@@ -11,3 +11,4 @@
 9) Removing punctuations from a given text. Here, we also download a text-file from the Internet using *request* of *urllib*.
 10) Dictionaries in Python: Introduction, from creating to accessing, updating, deleting items, and copying.
 11) Exercise: Converting variable names to strings, and vice versa, using function *globals()*.
+12) Frequency counting of words (or letters) of a given text. Also, a real text is downloaded from the Internet and the functions are tested with it. We use the *get* function of dictionaries in Python. Moreover, we plot the frequencies with  *bar* of *matplotlib*.
