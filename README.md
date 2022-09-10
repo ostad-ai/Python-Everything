@@ -12,3 +12,4 @@
 10) Dictionaries in Python: Introduction, from creating to accessing, updating, deleting items, and copying.
 11) Exercise: Converting variable names to strings, and vice versa, using function *globals()*.
 12) Frequency counting of words (or letters) of a given text. Also, a real text is downloaded from the Internet and the functions are tested with it. We use the *get* function of dictionaries in Python. Moreover, we plot the frequencies with  *bar* of *matplotlib*.
+13) Sets in Python: Introduction, which includes set creation and initialization, acessing elements, set operations, copying and clearing, and also a hint on *frozensets*. Moreover, an example is given about *Jaccard distance*.
