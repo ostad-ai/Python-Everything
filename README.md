@@ -14,3 +14,4 @@
 12) Frequency counting of words (or letters) of a given text. Also, a real text is downloaded from the Internet and the functions are tested with it. We use the *get* function of dictionaries in Python. Moreover, we plot the frequencies with  *bar* of *matplotlib*.
 13) Sets in Python: Introduction, which includes set creation and initialization, acessing elements, set operations, copying and clearing, and also a hint on *frozensets*. Moreover, an example is given about *Jaccard distance*.
 14) Pickle module, introduction: We use *dump* and *load* to save Python object into a byte stream and vice versa.
+15) Classes in Python, introdcution: Class definition and how to get instances from it are mentioned. Also, methods are reviewed. The difference between class variables versus instance variables is expressed. Examples are provided to help the explanation.
