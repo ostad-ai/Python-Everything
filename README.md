@@ -15,3 +15,4 @@
 13) Sets in Python: Introduction, which includes set creation and initialization, acessing elements, set operations, copying and clearing, and also a hint on *frozensets*. Moreover, an example is given about *Jaccard distance*.
 14) Pickle module, introduction: We use *dump* and *load* to save Python object into a byte stream and vice versa.
 15) Classes in Python, introdcution: Class definition and how to get instances from it are mentioned. Also, methods are reviewed. The difference between class variables versus instance variables is expressed. Examples are provided to help the explanation.
+16) Three different types of methods (functions) in Python are reviewed: instance method, class method, and static method. We use decorators: @classmethod and @staticmethod, for building class methods or static methods.
