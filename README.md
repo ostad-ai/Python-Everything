@@ -17,3 +17,4 @@
 15) Classes in Python, introdcution: Class definition and how to get instances from it are mentioned. Also, methods are reviewed. The difference between class variables versus instance variables is expressed. Examples are provided to help the explanation.
 16) Three different types of methods (functions) in Python are reviewed: instance method, class method, and static method. We use decorators: @classmethod and @staticmethod, for building class methods or static methods.
 17) Exercise: Computing the possible outcomes of a ranking event for the FIFA World Cup 2022, knowing the semi-final matches, using *itertools.permutations*.
+18) Logging module in Python, introduction: Using functions of logging module, we can display logging messages to the console or save them to a file. Here, these functions such as debug(), info(), warning(), error(), and critical() are mentioned.
