@@ -18,3 +18,4 @@
 16) Three different types of methods (functions) in Python are reviewed: instance method, class method, and static method. We use decorators: @classmethod and @staticmethod, for building class methods or static methods.
 17) Exercise: Computing the possible outcomes of a ranking event for the FIFA World Cup 2022, knowing the semi-final matches, using *itertools.permutations*.
 18) Logging module in Python, introduction: Using functions of logging module, we can display logging messages to the console or save them to a file. Here, these functions such as debug(), info(), warning(), error(), and critical() are mentioned.
+19) Unittest module in Python, introduction: We can use unittest module to design unit tests or integration tests. For unit tests, we define a class, which inherits *unittest.TestCase*. Here, we define a factorial function, and then we define test units for this factorial to reveal bugs in our factorial.
