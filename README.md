@@ -22,3 +22,4 @@
 20) Exercise: Factorial for non-negative integer and float numbers with *gamma* and *factorial* function of *math module*.
 21) SQLite3 module, introduction: We can use *sqlite3* module in Python for creating and accessing databases without the need to have a separate server. Here, we use basic commands of **SQL** for such purposes. For example, for creating and manipulating tables in our database.
 22) Operator overloading in Python: Using built-in operators, it is possible to change their behaviors via implementing their relevant special methods in a custom class definition. Here, we implement operator == for almost-equal. Also, we implement operator + for vector summation. 
+23) Lambda expressions: We may use lambda keyword to define anonymous functions. Here, we define the syntax for lambda expressions, and then we bring some applications. 
