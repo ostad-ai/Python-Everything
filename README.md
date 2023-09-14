@@ -25,3 +25,4 @@
 23) Lambda expressions: We may use lambda keyword to define anonymous functions. Here, we define the syntax for lambda expressions, and then we bring some applications.
 24) Magic methods, __getitem__ and __setitem__: We review getitem and setitem methods that may be used for **indexing** and **assignment** on instances of a class, respectively.  
 25) Iterators and iterables: We use iterators to iterate over iterables. This section reviews both of them. Lists, sets, tuples, and dictionaries are examples of iterables.
+26) Callable objects: We can make a class callable by defining a method in the class named **__class__**. This way, any instance of the class can be called like a function.
