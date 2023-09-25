@@ -27,3 +27,4 @@
 25) Iterators and iterables: We use iterators to iterate over iterables. This section reviews both of them. Lists, sets, tuples, and dictionaries are examples of iterables.
 26) Callable objects: We can make a class callable by defining a method in the class named **--class--**. This way, any instance of the class can be called like a function.
 27) List comprehension: We may use list comprehension to create lists from another lists or any iterables in  a concise way. A list comprehension may include for-loops and if-clauses.
+28) Functions: We will have a closer look at functions. Calling  functions by-reference or by-value are mentioned. Functions may have a variable number of arguments. Also, functions may have a variable number of keyword arguments. Some example are provided for clarification.
