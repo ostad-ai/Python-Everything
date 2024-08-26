@@ -32,3 +32,4 @@
 30. Handling files: We create, read, write files (text or binary) with **open**. We can also append data to an existing file. Generally, in this post, we mention how to deal with files in Python. We talk shortly about encoding and decoding from character string to byte string and vice versa. Moreove, we can check if a file exists or not. 
 31. Python Exercise: Compute the probability that a set of integers less than or equal to some certain numbers are all divisible by a common divisor.
 32. Enumeration in Python: We can use symbolic names in Python using enumerations. For this purpose, we employ module *enum* of the Python standard library. Enumeration is reviewed via some examples.
+33. Python Exercise: Population growth is reviewed using Python.
