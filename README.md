@@ -34,3 +34,4 @@
 32. **Enumeration in Python:** We can use symbolic names in Python using enumerations. For this purpose, we employ module *enum* of the Python standard library. Enumeration is reviewed via some examples.
 33. **Exercise:** Population growth is reviewed using Python.
 34. **Exercise:** Heron's method for computing the **square root** of a positive number.
+35. **Exercise:** Nth root algorithm to compute the **nth root** of a positive number.
