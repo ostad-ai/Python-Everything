@@ -35,3 +35,4 @@
 33. **Exercise:** Population growth is reviewed using Python.
 34. **Exercise:** Heron's method for computing the **square root** of a positive number.
 35. **Exercise:** Nth root algorithm to compute the **nth root** of a positive number.
+36. **Exercise:** Displaying the **Archimedean spiral** defined in *polar coordinates*. 
