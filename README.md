@@ -36,3 +36,4 @@
 34. **Exercise:** Heron's method for computing the **square root** of a positive number.
 35. **Exercise:** Nth root algorithm to compute the **nth root** of a positive number.
 36. **Exercise:** Displaying the **Archimedean spiral** defined in *polar coordinates*. 
+37. **defaultdict:** The *defautldict* is a subclass of *dict* in Python. unlike the regular dictionary in Python, with the *defauldict*, we can access any non-existing key without getting the **KeyError**. Here, we review *defaultdict* and provide some examples.
