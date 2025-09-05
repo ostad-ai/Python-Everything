@@ -37,3 +37,5 @@
 35. **Exercise:** Nth root algorithm to compute the **nth root** of a positive number.
 36. **Exercise:** Displaying the **Archimedean spiral** defined in *polar coordinates*. 
 37. **defaultdict:** The *defautldict* is a subclass of *dict* in Python. unlike the regular dictionary in Python, with the *defauldict*, we can access any non-existing key without getting the **KeyError**. Here, we review *defaultdict* and provide some examples.
+38. **Inner function:** An **inner function*8 is defined inside another function called the **outer function**. This way of defining a function gives some benefits such as *encapsualtion*, *closure*, *factory functions*, *decorators*, and *avoiding code duplication*.
+Here, we review the inner functions, and provide some examples in Python.
